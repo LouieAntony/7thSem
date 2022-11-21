@@ -24,8 +24,3 @@ plot(y,x,col = "blue",main = "Height & Weight Regression",
 
 # Save the file.
 dev.off()
-
-
-
-
-
